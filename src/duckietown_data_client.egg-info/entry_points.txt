@@ -1,0 +1,3 @@
+[console_scripts]
+dt-dc = duckietown_data_client:main
+

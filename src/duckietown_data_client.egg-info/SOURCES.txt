@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/duckietown_data_client/__init__.py
+src/duckietown_data_client/main_entry_point.py
+src/duckietown_data_client.egg-info/PKG-INFO
+src/duckietown_data_client.egg-info/SOURCES.txt
+src/duckietown_data_client.egg-info/dependency_links.txt
+src/duckietown_data_client.egg-info/entry_points.txt
+src/duckietown_data_client.egg-info/not-zip-safe
+src/duckietown_data_client.egg-info/top_level.txt
